@@ -60,4 +60,4 @@ clean:
 #	rm -rf *.o *~ printly
 	rm -rf *.o $(PROJ_NAME) *~ objects
 
-.PHONY: all clean printly
+.PHONY: all clean
